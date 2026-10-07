@@ -34,12 +34,14 @@ Read this before making any post.
 2. Relatable and funny: humour about family worry (Ryanair-style). Never about falls, illness, loneliness or death; never mock older people.
 3. Kids away from home: parents of students/young adults abroad.
 4. Living alone, useful: saveable tips.
-5. Real people: founder story, tester quotes (only real, with permission). Only when material exists.
+5. Real people: founder story, tester quotes (only real, with permission). Only when material exists. Founder story is told WITHOUT Enrico's face.
+6. Seasonal moments: the 1st of every month (e.g. "Hello November: check on the people you love") and festivities (Halloween, Bonfire Night, Christmas, New Year, Mother's Day, Easter...). 1-2 lead-up posts in the week before a festivity (they can replace that week's Tue/Thu slot) and a more special post on the day.
 
 ## Cadence
 - Tuesday 18:00 UK: Product, alternating with Kids away and Living alone.
 - Thursday 18:00 UK: Relatable and funny (meme-style image).
 - Saturday 10:00 UK from 24 Oct: one short video. NOT automated yet (uses Higgsfield/HeyGen credits): skip unless Enrico has approved video.
+- 1st of each month and festivity days 10:00 UK: Seasonal post (extra slot).
 - Follow PLAN.md when it lists a post for that date; otherwise pick by the rotation above.
 - Never repeat a theme used in the last 3 weeks (check POSTS.md). Always 3-5 hashtags.
 

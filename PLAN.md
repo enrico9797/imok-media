@@ -8,8 +8,9 @@
 | Thu 22 Oct | Relatable | Texting "home safe" at 25 vs at 35 | Meme, two panels |
 | Sat 24 Oct | Product | How it works in 15 seconds | Video (needs approval) |
 | Tue 27 Oct | Product | The safety word: one word alerts your whole circle | Chat screenshot |
-| Thu 29 Oct | Relatable | The family group chat when someone goes quiet | Meme |
-| Sat 31 Oct | Living alone | 5 things to set up when you live alone | Carousel |
+| Thu 29 Oct | Seasonal (lead-up) | Halloween is coming: the scariest thing is Mum on read | Meme |
+| Sat 31 Oct | Seasonal (day) | Happy Halloween: John's check-in, Halloween edition | Chat screenshot, festive design |
+| Sun 1 Nov | Seasonal (month) | Hello November: a gentle nudge to check on the people you love | Image |
 | Tue 3 Nov | Living alone | Solo travel: who knows where you are? | Chat screenshot |
-| Thu 5 Nov | Relatable | Italian mum: 7 missed calls vs one tap | Meme |
-| Sat 7 Nov | Real people | Why I built I'm OK (only if Enrico agrees) | Video or carousel |
+| Thu 5 Nov | Relatable | Bonfire Night: text "home safe" after the fireworks | Meme |
+| Sat 7 Nov | Real people | Why I built I'm OK, told without Enrico's face (messages and text on screen) | Carousel |
