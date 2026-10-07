@@ -3,7 +3,7 @@
 | Date | Pillar | Post idea | Format |
 |---|---|---|---|
 | Tue 13 Oct | Product | "What if I forget to tap once?" A gentle reminder comes first, then the circle | Chat screenshot |
-| Thu 15 Oct | Relatable | Mum when you don't reply for 3 hours | Meme |
+| Thu 15 Oct | Relatable | 17 missed calls from Mum: walking home knowing the lecture is coming (one tap would have saved you) | Meme |
 | Tue 20 Oct | Kids away | First term at uni: one tap instead of ten texts | Chat screenshot |
 | Thu 22 Oct | Relatable | Texting "home safe" at 25 vs at 35 | Meme, two panels |
 | Sat 24 Oct | Product | How it works in 15 seconds | Video (needs approval) |
