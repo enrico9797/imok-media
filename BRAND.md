@@ -23,10 +23,24 @@ Read this before making any post.
 - Caption: 40-90 words, a clear first line, ends with "Start free at getimok.app (link in bio)." 3-5 hashtags max, e.g. #PeaceOfMind #LivingAlone #Family #WhatsApp.
 - Alt text for every image.
 
+## Audiences
+- Adult children (35-60) of ageing parents, often far away; many expats.
+- Parents of teenagers or grown-up kids who study, work or travel abroad.
+- People living alone (20-45): renters, solo travellers, night-shift and lone workers.
+
+## Pillars
+1. Product: how it works, features, common questions.
+2. Relatable and funny: humour about family worry (Ryanair-style). Never about falls, illness, loneliness or death; never mock older people.
+3. Kids away from home: parents of students/young adults abroad.
+4. Living alone, useful: saveable tips.
+5. Real people: founder story, tester quotes (only real, with permission). Only when material exists.
+
 ## Cadence
-- Two posts a week: Tuesday and Thursday, 6pm UK time.
-- Rotate themes: how it works / features (safety word, reminders, each other) / common questions (Is it free? Do they need an app? What if I forget once?) / who it's for / real feedback (only when we have it).
-- Never repeat a theme used in the last 3 weeks (check POSTS.md).
+- Tuesday 18:00 UK: Product, alternating with Kids away and Living alone.
+- Thursday 18:00 UK: Relatable and funny (meme-style image).
+- Saturday 10:00 UK from 24 Oct: one short video. NOT automated yet (uses Higgsfield/HeyGen credits): skip unless Enrico has approved video.
+- Follow PLAN.md when it lists a post for that date; otherwise pick by the rotation above.
+- Never repeat a theme used in the last 3 weeks (check POSTS.md). Always 3-5 hashtags.
 
 ## Hosting
 - Images live in posts/YYYY-MM-DD/ in this repo; Metricool takes them from
