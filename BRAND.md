@@ -26,7 +26,8 @@ Read this before making any post.
 ## Audiences
 - Adult children (35-60) of ageing parents, often far away; many expats.
 - Parents of teenagers or grown-up kids who study, work or travel abroad.
-- People living alone (20-45): renters, solo travellers, night-shift and lone workers.
+- People living alone (20-45): renters, solo travellers.
+- Night-shift and lone workers (nurses, carers, security, drivers): loved ones know they got through the shift.
 
 ## Pillars
 1. Product: how it works, features, common questions.
