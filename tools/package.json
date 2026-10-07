@@ -1,0 +1,1 @@
+{ "name": "imok-media-tools", "private": true, "dependencies": { "@fontsource/fraunces": "^5", "@fontsource/inter": "^5" } }
