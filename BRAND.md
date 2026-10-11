@@ -18,7 +18,7 @@ Read this before making any post. (Updated 11 Oct 2026: I'm OK is now reminders-
 - Humour is welcome when it's about the problem I'm OK solves (forgetting, nagging, alarm chaos), Ryanair-style. Never about falls, illness, loneliness or death; never mock older people.
 - It never replaces calls, visits or care. Never say "no need to call". Never claim it's a medical, emergency or care service, and never promise it saves lives.
 - Never invent reviews, testimonials, user numbers or star ratings. Only quote real people with permission.
-- Tagline: "Remind the people you love. See when it's done."
+- Tagline: "Remind your loved ones about important things. Straight from WhatsApp." (same as the website headline)
 
 ## Format
 - Instagram + Facebook, same post. Images 1080x1350, made with tools/render.js, in the house style (cream background, Fraunces headings, orange gradient accent, WhatsApp-style chat bubbles). Prefer conversation screenshots over bullet lists.
@@ -39,13 +39,14 @@ Read this before making any post. (Updated 11 Oct 2026: I'm OK is now reminders-
 3. No more nagging (funny): partners, flatmates, siblings. Bin day, rent, walking the dog, the pill. The reminder comes from I'm OK, not from you.
 4. Alarm chaos (funny): phone alarms only remind you; 40 alarms called "IMPORTANT"; snoozing until they mean nothing. I'm OK reminds them, and tells you.
 5. Daily I'm OK (safety): living alone, night shifts, solo travel. One tap a day; if they go quiet, the right person knows.
+9. Safety word (safety): one secret word sent to I'm OK on WhatsApp alerts your people at once, with your number and, if you like, where you are. Walking home late, a bad date, feeling unsafe. Calm and practical, never fear-mongering; never call it an emergency service and never promise it saves lives. Free for everyone.
 6. Seasonal moments: the 1st of every month and festivities (Halloween, clocks changing, Bonfire Night, Christmas, New Year, Mother's Day, Easter...), tied to a reminder people would actually set. 1 lead-up post in the week before, and a special post on the day.
 7. Real people (only when material exists): founder story told WITHOUT Enrico's face, tester quotes with permission.
 8. Useful lists (saveable): "5 reminders worth setting for your parents", "reminders couples actually need". Carousels people save and share.
 
 ## Cadence
 - One post every day. Weekdays 18:00 UK, weekends 10:00 UK.
-- Rotation when PLAN.md has no row: Mon Looking after family, Tue How it works, Wed Alarm chaos, Thu No more nagging, Fri Daily I'm OK, Sat Useful list, Sun Looking after family or Seasonal.
+- Rotation when PLAN.md has no row: Mon Looking after family, Tue How it works, Wed Alarm chaos, Thu No more nagging, Fri Daily I'm OK or Safety word (alternate), Sat Useful list, Sun Looking after family or Seasonal.
 - Seasonal and festivity posts replace that day's slot.
 - Several posts on one day only for a launch set Enrico will pin (post them 10 minutes apart, the one to show first posted last).
 - Video: NOT automated yet (uses Higgsfield/HeyGen credits). Skip video rows unless Enrico has approved video.
