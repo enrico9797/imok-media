@@ -2,6 +2,7 @@
 
 | Date | Theme | Files | Caption first line |
 |---|---|---|---|
+| 2026-10-11 | (Archived the three 7 Oct check-in posts on Instagram and Facebook; I'm OK is now reminders-first) | | |
 | 2026-10-07 | Launch: welcome | 2026-10/01-welcome.png | Meet I'm OK 💛 |
 | 2026-10-07 | Launch: how it works (carousel) | 2026-10/02a-setup, 02b-daily, 03-missed | How I'm OK works 👉 swipe |
 | 2026-10-07 | Launch: who it's for | 2026-10/04-who.png | Who is I'm OK for? |

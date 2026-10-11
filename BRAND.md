@@ -1,50 +1,56 @@
 # I'm OK social media playbook
 
-Read this before making any post.
+Read this before making any post. (Updated 11 Oct 2026: I'm OK is now reminders-first. The daily I'm OK is one feature, not the headline.)
 
 ## The product (facts only, never invent features)
-- I'm OK is a daily check-in on WhatsApp. No app to download. Website: getimok.app
-- Each day, at a time the user picks, they get a message. One tap on "I'm OK" says all is well.
-- If they don't reply, the people in their circle get a message (with a button to call them).
-- Ways to use it: someone checks on you; you check on someone (a parent, a relative, a friend); or you look out for each other.
-- Extras: a secret safety word that alerts the whole circle at once; reminders (tablets, appointments, bin day); a circle page to manage settings.
-- Start free on WhatsApp.
+- I'm OK sends reminders to the people you love on WhatsApp, and tells you when they're done. No app to download, for you or for them. Website: getimok.app
+- You choose who (yourself or someone else), what the reminder says, and when: once, every day, some days of the week, every month or every year.
+- The other person says yes once, with one tap. After that, each reminder arrives on their WhatsApp with a Done button.
+- When they tap Done, you see it on your page. If they don't, I'm OK lets you know.
+- Free: remind up to 2 people, 1 reminder a day each, plus a message if one is missed.
+- Plus (paid): a message every time it's done, a gentle nudge if they forget, up to 6 people and 5 reminders a day each. Never quote prices in posts; say "Start free".
+- Also included: the daily I'm OK (once a day one tap says all is well; if there's no reply, the right person is told) and a safety word (one secret word that alerts your people at once).
+- Everything is managed on WhatsApp and on a simple web page at getimok.app.
 
 ## Voice
 - English only. Warm, calm, plain words. Short sentences. No jargon, no hype, no fear-mongering.
-- It never replaces calls or visits: it adds an extra layer of safety alongside them. Never say "no need to call".
-- Never claim it's a medical, emergency or care service. Never promise it saves lives.
+- Credibility first: we have almost no followers yet, so most people see a post after tapping the profile from an ad or a Facebook group. Every post should make it obvious what I'm OK does.
+- Humour is welcome when it's about the problem I'm OK solves (forgetting, nagging, alarm chaos), Ryanair-style. Never about falls, illness, loneliness or death; never mock older people.
+- It never replaces calls, visits or care. Never say "no need to call". Never claim it's a medical, emergency or care service, and never promise it saves lives.
 - Never invent reviews, testimonials, user numbers or star ratings. Only quote real people with permission.
-- Tagline: "A daily sign of life from the people you love".
+- Tagline: "Remind the people you love. See when it's done."
 
 ## Format
 - Instagram + Facebook, same post. Images 1080x1350, made with tools/render.js, in the house style (cream background, Fraunces headings, orange gradient accent, WhatsApp-style chat bubbles). Prefer conversation screenshots over bullet lists.
-- Recurring names in chats: John (checks in), Emily (his circle), Mum.
-- Caption: 40-90 words, a clear first line, ends with "Start free at getimok.app (link in bio)." 3-5 hashtags max, e.g. #PeaceOfMind #LivingAlone #Family #WhatsApp.
+- Show the real flow where possible: the reminder with its Done button, "✅ John took his tablet at 9:05am", "⚠️ John hasn't tapped Done yet".
+- Names in chats are always made up: John, Emily, Sam, Mum, Dad. Never Enrico's real family or friends.
+- Caption: 40-90 words, a clear first line, ends with "Start free at getimok.app (link in bio)." 3-5 hashtags, e.g. #Reminders #Family #WhatsApp #PeaceOfMind #GetOrganised.
 - Alt text for every image.
 
 ## Audiences
-- Adult children (35-60) of ageing parents, often far away; many expats.
-- Parents of teenagers or grown-up kids who study, work or travel abroad.
-- People living alone (20-45): renters, solo travellers.
-- Night-shift and lone workers (nurses, carers, security, drivers): loved ones know they got through the shift.
+- Adult children (30-60) looking after parents, often far away: tablets, appointments, "did you eat?".
+- Couples, flatmates and siblings sharing everyday jobs: bins, rent, the dog, the pill, bills.
+- Parents of teenagers or young adults: "text me when you're home", homework, driving lessons.
+- People who live alone or work nights (daily I'm OK pillar).
 
 ## Pillars
-1. Product: how it works, features, common questions.
-2. Relatable and funny: humour about family worry (Ryanair-style). Never about falls, illness, loneliness or death; never mock older people.
-3. Kids away from home: parents of students/young adults abroad.
-4. Living alone, useful: saveable tips.
-5. Real people: founder story, tester quotes (only real, with permission). Only when material exists. Founder story is told WITHOUT Enrico's face.
-6. Seasonal moments: the 1st of every month (e.g. "Hello November: check on the people you love") and festivities (Halloween, Bonfire Night, Christmas, New Year, Mother's Day, Easter...). 1-2 lead-up posts in the week before a festivity (they can replace that week's Tue/Thu slot) and a more special post on the day.
+1. How it works (credibility): the Done tap, "you see it's done", the message if it's missed, setting one up in a minute. Plus features named plainly.
+2. Looking after family (warm, serious): parents' tablets, appointments, someone far away. You see it's done without calling ten times.
+3. No more nagging (funny): partners, flatmates, siblings. Bin day, rent, walking the dog, the pill. The reminder comes from I'm OK, not from you.
+4. Alarm chaos (funny): phone alarms only remind you; 40 alarms called "IMPORTANT"; snoozing until they mean nothing. I'm OK reminds them, and tells you.
+5. Daily I'm OK (safety): living alone, night shifts, solo travel. One tap a day; if they go quiet, the right person knows.
+6. Seasonal moments: the 1st of every month and festivities (Halloween, clocks changing, Bonfire Night, Christmas, New Year, Mother's Day, Easter...), tied to a reminder people would actually set. 1 lead-up post in the week before, and a special post on the day.
+7. Real people (only when material exists): founder story told WITHOUT Enrico's face, tester quotes with permission.
 
 ## Cadence
-- Tuesday 18:00 UK: Product, alternating with Kids away and Living alone.
-- Thursday 18:00 UK: Relatable and funny (meme-style image).
-- Saturday 10:00 UK from 24 Oct: one short video. NOT automated yet (uses Higgsfield/HeyGen credits): skip unless Enrico has approved video.
-- 1st of each month and festivity days 10:00 UK: Seasonal post (extra slot).
+- Tuesday 18:00 UK: credibility (pillar 1, alternating with 2 and 5).
+- Thursday 18:00 UK: relatable and funny (pillars 3 and 4), always tied to what I'm OK does.
+- Saturday 10:00 UK: seasonal or real people, only when PLAN.md lists one.
+- Video: NOT automated yet (uses Higgsfield/HeyGen credits). Skip video rows unless Enrico has approved video.
 - Follow PLAN.md when it lists a post for that date; otherwise pick by the rotation above.
 - Never repeat a theme used in the last 3 weeks (check POSTS.md). Always 3-5 hashtags.
 
 ## Hosting
 - Images live in posts/YYYY-MM-DD/ in this repo; Metricool takes them from
   https://raw.githubusercontent.com/enrico9797/imok-media/main/posts/...
+- posts/2026-10/ is the old check-in launch set (archived on Instagram and Facebook on 11 Oct). Reuse its style, not its message.
