@@ -1,0 +1,17 @@
+[
+  { "id": "parents", "name": "Looking after parents", "title": "Helping ageing parents with the things that matter", "pillar": "help-ageing-parent-remember",
+    "blurb": "Medication, appointments and everyday routines, especially when you don't live nearby.",
+    "intro": "Practical guides for when a mum or dad starts needing a little more help remembering things: tablets, appointments, bins and bills. Written for families, many of whom live miles away." },
+  { "id": "reminders", "name": "Reminders that get done", "title": "Reminders that actually get done", "pillar": "whatsapp-reminders",
+    "blurb": "How to remind someone else, or yourself, without nagging or a phone full of alarms.",
+    "intro": "Phone alarms only remind the person holding the phone. These guides cover what works when you need someone else to remember: WhatsApp, calendars, apps and the human side of not nagging." },
+  { "id": "home", "name": "Sharing the load at home", "title": "Sharing the load at home", "pillar": "shared-reminders-couples-flatmates",
+    "blurb": "Couples, flatmates, teenagers and pets: who remembers what, fairly.",
+    "intro": "Bin day, rent, the dog's flea treatment, the pill, the boiler service. Guides to sharing the remembering at home so it doesn't all land on one person." },
+  { "id": "alone", "name": "Living alone and staying safe", "title": "Living alone and staying safe", "pillar": "living-alone-safely",
+    "blurb": "Check-ins, safety words and simple plans for people who live or work alone.",
+    "intro": "Living alone, working alone, walking home alone or travelling solo. Calm, practical guides to making sure someone would notice if something went wrong." },
+  { "id": "seasons", "name": "Through the year", "title": "Reminders for every season", "pillar": "",
+    "blurb": "Clocks changing, winter, Christmas and the dates worth a reminder.",
+    "intro": "Seasonal checklists and the moments in the year worth a reminder, for you and the people you look after." }
+]
