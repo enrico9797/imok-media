@@ -41,14 +41,16 @@ Read this before making any post. (Updated 11 Oct 2026: I'm OK is now reminders-
 5. Daily I'm OK (safety): living alone, night shifts, solo travel. One tap a day; if they go quiet, the right person knows.
 6. Seasonal moments: the 1st of every month and festivities (Halloween, clocks changing, Bonfire Night, Christmas, New Year, Mother's Day, Easter...), tied to a reminder people would actually set. 1 lead-up post in the week before, and a special post on the day.
 7. Real people (only when material exists): founder story told WITHOUT Enrico's face, tester quotes with permission.
+8. Useful lists (saveable): "5 reminders worth setting for your parents", "reminders couples actually need". Carousels people save and share.
 
 ## Cadence
-- Tuesday 18:00 UK: credibility (pillar 1, alternating with 2 and 5).
-- Thursday 18:00 UK: relatable and funny (pillars 3 and 4), always tied to what I'm OK does.
-- Saturday 10:00 UK: seasonal or real people, only when PLAN.md lists one.
+- One post every day. Weekdays 18:00 UK, weekends 10:00 UK.
+- Rotation when PLAN.md has no row: Mon Looking after family, Tue How it works, Wed Alarm chaos, Thu No more nagging, Fri Daily I'm OK, Sat Useful list, Sun Looking after family or Seasonal.
+- Seasonal and festivity posts replace that day's slot.
+- Several posts on one day only for a launch set Enrico will pin (post them 10 minutes apart, the one to show first posted last).
 - Video: NOT automated yet (uses Higgsfield/HeyGen credits). Skip video rows unless Enrico has approved video.
-- Follow PLAN.md when it lists a post for that date; otherwise pick by the rotation above.
-- Never repeat a theme used in the last 3 weeks (check POSTS.md). Always 3-5 hashtags.
+- Follow PLAN.md when it lists a post for that date; otherwise use the rotation above.
+- Never repeat the same idea (check POSTS.md). Pillars repeat; jokes and scenarios don't. Always 3-5 hashtags.
 
 ## Hosting
 - Images live in posts/YYYY-MM-DD/ in this repo; Metricool takes them from
