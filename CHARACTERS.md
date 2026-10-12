@@ -12,6 +12,7 @@ Read this before making any comic, illustrated post or video with the I'm OK cas
   - Why not 3D: AI 3D characters drift towards the generic animated-film look, which reads as AI and as borrowed; 2D is easier to keep consistent and leaves room for text.
   - Revisit only if the 2D videos clearly underperform after a month, and then switch the whole cast at once, never mix.
 - Line: rounded, medium weight, warm dark brown (#3A2A1E), never pure black.
+- Scenes use a calm, muted palette: cream walls, sage green, beige and warm wood. Bright orange is for Tick and small accents only, never whole rooms or clothes.
 - Colour: the brand palette. Cream background #FFF7EE, warm sand #F3E6D6, I'm OK orange #FF8A3D with the gradient to #FFB347, ink #2A1D14, WhatsApp green #25D366 only for phone screens and Done buttons.
 - Proportions: natural (head about one sixth of the body). No giant limbs, tiny heads or corporate-flat people.
 - Faces: simple, expressive eyes and eyebrows; the joke is carried by expressions.
@@ -22,7 +23,7 @@ Read this before making any comic, illustrated post or video with the I'm OK cas
 
 | Character | Look (keep identical every time) | Personality | Running joke | Never |
 |---|---|---|---|---|
-| **Emily** | Late 30s, short copper-ginger hair in a choppy chin-length bob with a side parting, freckles, mustard-orange jumper (brand orange), jeans, white trainers, small gold hoops | Kind, busy, slightly late, worries about her parents | Has 47 phone alarms, all called IMPORTANT | Shown as a nag or a bad daughter |
+| **Emily** | Mid 30s, copper-red hair tied up in a loose, effortless messy updo with face-framing strands, freckles, smooth skin (no lines), oatmeal-beige cropped cardigan over a cream top, wide-leg burgundy corduroy trousers, white trainers, small gold hoops | Kind, busy, slightly late, worries about her parents, quietly stylish | Has 47 phone alarms, all called IMPORTANT | Shown as a nag or a bad daughter |
 | **Mum** | Early 70s, short silver bob, red-framed glasses on a beaded chain, teal cardigan, pearl earrings | Sharp, independent, funny, proud | "I know, I know" to every reminder, then taps Done with a flourish | Confused, frail, or the butt of the joke |
 | **Dad** | Mid 70s, bald on top with white sides, white moustache, flat cap outdoors, green knitted vest over a checked shirt | Cheerful, competitive, happiest in the garden | Treats the Done button as a game he intends to win | Forgetful as the punchline, or helpless with technology |
 | **Tick** | The I'm OK app icon come to life: a small rounded orange speech bubble with a white tick for a mouth-and-eyes face, tiny arms, no legs (floats) | Helpful, upbeat, a bit smug | Pops out of phones; does the nagging so Emily doesn't have to | Talks in long sentences (one short line at most) |
@@ -74,7 +75,7 @@ Avoid: 3D, photorealism, anime, big-limbed corporate flat style, text or letters
 Shared start: "Character turnaround and expression sheet, 2D flat illustration with soft paper grain, rounded medium-weight warm dark brown (#3A2A1E) outlines, natural adult proportions, flat brand colours (cream #FFF7EE background, sand #F3E6D6, orange #FF8A3D), left: four consistent full-body views in a row (front, three-quarter, side, back), right: three head-and-shoulders expressions (happy, unimpressed, surprised), identical original character in every view, plain cream seamless background, professional model sheet presentation,"
 Shared end: "no text, no letters, no logos, no watermark, no frame borders, no other characters, no props, not 3D, not photorealistic, not anime, no big-limbed corporate flat style, original character not resembling any real person or existing character."
 
-- **Emily:** "woman in her late thirties, fair skin with a light dusting of freckles, short copper-ginger hair in a choppy chin-length bob with a side parting and a few messy strands, no bun, small gold hoop earrings, mustard-orange chunky knit jumper, mid-blue straight jeans, white trainers, slim build, kind tired eyes with a hint of humour,"
+- **Emily:** "woman in her mid thirties with smooth clear skin, no wrinkles, a light dusting of freckles, copper-red hair tied up in a loose messy updo bun with soft face-framing curtain strands and loose wisps, small gold hoop earrings, light oatmeal-beige cropped knit cardigan with tortoiseshell buttons over a plain cream top, wide-leg dark burgundy-brown corduroy trousers, white trainers, slim build, warm, kind, slightly amused expression, no orange clothing,"
 - **Mum:** "woman in her early seventies, fair skin with soft smile lines, short neat silver bob, red-framed glasses on a beaded chain, small pearl earrings, teal cardigan over a cream blouse, navy trousers, comfortable brown loafers, upright confident posture, sharp amused expression,"
 - **Dad:** "man in his mid seventies, ruddy fair skin, bald on top with short white hair at the sides, full white moustache, green knitted sleeveless vest over a blue-and-white checked shirt, brown corduroy trousers, sturdy brown shoes, flat tweed cap held in one hand, stocky build, cheerful competitive grin,"
 - **Tick:** "small friendly mascot shaped like a rounded orange speech bubble (#FF8A3D to #FFB347 soft gradient) with a tail at the bottom left, a simple white tick shape forming its smile, two small dot eyes, tiny stubby arms, no legs, floating slightly above the ground with a soft shadow, about the size of a hand, upbeat and slightly smug,"
@@ -83,7 +84,7 @@ Generate each sheet, check it against the table above, save the chosen one as `c
 
 ## Approved reference sheets (12 Oct 2026)
 Previews are in `characters/` (emily-sheet.jpg, mum-sheet.jpg, dad-sheet.jpg, tick-sheet.jpg). Full-size originals are in Higgsfield; pass these job IDs as reference images (role image_references, model gpt_image_2_5) in every scene:
-- Emily: 4df0202f-42b7-4cac-8c10-5e5685980d6c (ginger bob, approved 12 Oct; the earlier dark-haired version is retired)
+- Emily: aa301b61-9570-4b52-93fd-dd0525ce865a (red updo, beige cardigan, burgundy trousers; approved 12 Oct. Earlier versions are retired)
 - Mum: d21f2e51-46db-4e17-b25a-4922d04a35d0
 - Dad: a604a7be-b495-4d50-bd4f-37691cf57644
 - Tick: 72649bd3-df1c-4a72-b662-d26cf1bab67a
