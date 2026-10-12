@@ -2,6 +2,8 @@
 
 The grid was emptied on 11 Oct. Monday 12 Oct posts the three launch posts together so Enrico can pin them; from Tuesday it's one post a day.
 
+From 19 Oct, the Wednesday and Thursday posts are comics with the cast (Emily, Mum, Dad, Tick). Make them only from the reference sheets in characters/ and follow CHARACTERS.md. If the sheets don't exist yet, post the slot as a normal chat-screenshot post on the same idea instead.
+
 Launch order matters: the newest post shows first, so post "Who it's for" first, then "How it works", then "Welcome" last.
 
 | Date | Time (UK) | Pillar | Post idea | Format |
@@ -17,22 +19,22 @@ Launch order matters: the newest post shows first, so post "Who it's for" first,
 | Sun 18 Oct | 10:00 | Safety word | What's a safety word? One word only you know. Send it to I'm OK and your people know you need them | Image, explainer |
 | Mon 19 Oct | 18:00 | Looking after family | Dad's appointment at 10am: reminder at 9, "✅ Dad's on his way". No ten calls needed | Chat screenshot |
 | Tue 20 Oct | 18:00 | How it works | Set one up in a minute: who, what, when, on WhatsApp | Carousel |
-| Wed 21 Oct | 18:00 | Alarm chaos | Snoozed it 6 times. Still didn't do it. A reminder from I'm OK waits for Done | Meme |
-| Thu 22 Oct | 18:00 | No more nagging | Flatmates: rent day. "Pay the rent 🏠" ✅ Done at 9:12am. Nobody had to ask | Meme, two panels |
+| Wed 21 Oct | 18:00 | Alarm chaos (comic) | 47 alarms: Emily's phone rings all day with "IMPORTANT"; Tick pops out and replaces them with one reminder; last panel "✅ Done" and Emily finally relaxes | Comic, 4 panels, cast (CHARACTERS.md) |
+| Thu 22 Oct | 18:00 | Looking after family (comic) | Mum vs the 9am tablet: Emily worries, sets one reminder; Mum says "I know, I know", taps Done; Emily's phone: "✅ Mum: Take your tablets, done at 9:04am"; Mum texts "Satisfied?" | Comic, 4 panels, cast |
 | Fri 23 Oct | 18:00 | Daily I'm OK | Night shift: one tap when you're home; if you go quiet, the right person knows | Chat screenshot |
 | Sat 24 Oct | 10:00 | Seasonal (clocks go back Sun 25 Oct) | Extra hour in bed; reminders still arrive at 9am, local time | Image |
 | Sun 25 Oct | 10:00 | Useful list | Reminders couples actually need: bins, bills, the dog's flea treatment, date night | Carousel |
 | Mon 26 Oct | 18:00 | Looking after family | Living far from Mum: you see "✅ Took her tablet at 9:05am" from 1,000 miles away | Chat screenshot |
 | Tue 27 Oct | 18:00 | How it works | Plus, plainly: a message every time it's done, and a gentle nudge if they forget (no prices) | Image |
-| Wed 28 Oct | 18:00 | Alarm chaos | Your alarm list at 2am: "???", "do the thing", "DON'T FORGET". Which thing? | Meme |
-| Thu 29 Oct | 18:00 | Seasonal (lead-up) | Halloween is coming: the scariest sound is the bin lorry you forgot about | Meme |
+| Wed 28 Oct | 18:00 | How it works (comic) | Dad and the Done button: the reminder arrives, Dad taps Done before it's even finished, punches the air; Emily sees it from London | Comic, 4 panels, cast |
+| Thu 29 Oct | 18:00 | Seasonal lead-up (comic) | Halloween is coming: Emily hears the bin lorry and screams; Tick appears in a ghost sheet with "Put the bins out"; Done ✅ | Comic, 4 panels, cast |
 | Fri 30 Oct | 18:00 | Safety word | Walking home late? Send your secret word to I'm OK and your people are alerted at once, with your number and, if you like, where you are | Chat screenshot (John's phone and Emily's phone) |
 | Sat 31 Oct | 10:00 | Seasonal (day) | Happy Halloween: "🎃 Buy sweets before the doorbell starts", Done ✅ | Chat screenshot, festive design |
 | Sun 1 Nov | 10:00 | Seasonal (month) | Hello November: set the reminders that matter this month (flu jab, boiler service, a call to Gran) | Image |
 | Mon 2 Nov | 18:00 | Looking after family | Kids away at uni: "Text me when you're home" becomes one Done tap | Chat screenshot |
 | Tue 3 Nov | 18:00 | How it works | They don't need an app. Just WhatsApp, one tap to say yes, one tap for Done | Image |
-| Wed 4 Nov | 18:00 | Alarm chaos | Phone reminders only remind you. I'm OK reminds them, and tells you | Meme |
-| Thu 5 Nov | 18:00 | Seasonal (Bonfire Night) | Home safe after the fireworks: one tap on the daily I'm OK | Chat screenshot |
+| Wed 4 Nov | 18:00 | Looking after family (comic) | Far from home: Emily in London, Mum in another country, a doctor's appointment at 2:30; Mum taps Done at 1:52 from 1,500 km away | Comic, 4 panels, cast |
+| Thu 5 Nov | 18:00 | Seasonal: Bonfire Night (comic) | Dad at the fireworks with a sparkler; Emily's phone: Dad tapped I'm OK, home safe; Tick with tiny ear defenders | Comic, 4 panels, cast |
 | Fri 6 Nov | 18:00 | No more nagging | Couples: "One Done tap stands between us and a mini-me" (the daily pill reminder, sent by I'm OK). Keep it light and tasteful; organic only, never boosted | Meme |
 | Sat 7 Nov | 10:00 | Real people | Why I built I'm OK, told without Enrico's face (messages and text on screen) | Carousel |
 | Sun 8 Nov | 10:00 | Useful list | Reminders for your dog: flea treatment, worming, the walk when you're late home | Carousel |

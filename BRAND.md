@@ -21,6 +21,7 @@ Read this before making any post. (Updated 11 Oct 2026: I'm OK is now reminders-
 - Tagline: "Remind your loved ones about important things. Straight from WhatsApp." (same as the website headline)
 
 ## Format
+- Comics and illustrated posts use the I'm OK cast (Emily, Mum, Dad, Tick): follow CHARACTERS.md exactly.
 - Instagram + Facebook, same post. Images 1080x1350, made with tools/render.js, in the house style (cream background, Fraunces headings, orange gradient accent, WhatsApp-style chat bubbles). Prefer conversation screenshots over bullet lists.
 - Show the real flow where possible: the reminder with its Done button, "✅ John took his tablet at 9:05am", "⚠️ John hasn't tapped Done yet".
 - Names in chats are always made up: John, Emily, Sam, Mum, Dad. Never Enrico's real family or friends.

@@ -148,6 +148,7 @@ const JOBS = {};
 for (const [k, a] of Object.entries(ADS)) { JOBS[`feed-${k}`] = () => social(a, false); }
 JOBS['story-parents-tablets'] = () => social(ADS['parents-tablets'], true);
 JOBS['story-living-alone'] = () => social(ADS['living-alone'], true);
+JOBS['story-parents-abroad'] = () => social(ADS['parents-abroad'], true);
 JOBS['print-bin-sticker'] = sticker; JOBS['print-flyer-front'] = flyerFront; JOBS['print-flyer-back'] = flyerBack; JOBS['print-poster-a4'] = poster;
 
 const out = path.join(__dirname, '..', 'ads');
