@@ -27,7 +27,16 @@ Read this before making any comic, illustrated post or video with the I'm OK cas
 | **Dad** | Mid 70s, bald on top with white sides, white moustache, flat cap outdoors, green knitted vest over a checked shirt | Cheerful, competitive, happiest in the garden | Treats the Done button as a game he intends to win | Forgetful as the punchline, or helpless with technology |
 | **Tick** | The I'm OK app icon come to life: a small rounded orange speech bubble with a white tick for a mouth-and-eyes face, tiny arms, no legs (floats) | Helpful, upbeat, a bit smug | Pops out of phones; does the nagging so Emily doesn't have to | Talks in long sentences (one short line at most) |
 
-Other people (a flatmate, a partner, a teenager) can appear once in a while, drawn in the same style; give them names from the brand list (John, Sam). Never Enrico's real family or friends.
+### Adding characters
+The cast can grow when a story needs it: a son, friends, a flatmate, a partner. Two rules keep it consistent:
+- Anyone who appears more than once gets a row in the table above and a reference sheet in `characters/` before their second appearance.
+- Keep the main cast small (six at most), so people recognise them. One-off extras can appear without a sheet, drawn in the same style, and never as the focus of the strip.
+
+Ready to add when a story calls for them:
+- **Sam**, Emily's son, 15: hoodie, headphones round his neck, always on his phone. For the "text me when you're home" and homework stories.
+- **John**, Emily's friend and neighbour, early 40s, lives alone with a dog. For the daily I'm OK, bin day and "look out for each other" stories.
+
+Names always come from the brand list (Emily, John, Sam, Mum, Dad). Never Enrico's real family or friends.
 
 ## Rules for the stories
 - Mum and Dad are the clever ones. The joke is the situation, Emily, or Tick.
