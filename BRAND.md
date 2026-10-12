@@ -45,6 +45,13 @@ Read this before making any post. (Updated 11 Oct 2026: I'm OK is now reminders-
 7. Real people (only when material exists): founder story told WITHOUT Enrico's face, tester quotes with permission.
 8. Useful lists (saveable): "5 reminders worth setting for your parents", "reminders couples actually need". Carousels people save and share.
 
+## The mix (from 19 Oct 2026)
+- The pillars and formats above stay. Each week keeps a balance of funny (alarm chaos, no more nagging, memes), warm and serious (looking after family, daily I'm OK, safety word), and useful (how it works, lists).
+- Comics with the cast are an extra format, not a replacement: two a week (the Wednesday and Thursday slots), one funny and one warm. The other five days stay chat screenshots, memes, carousels and explainers.
+- The cast is always the same four (Emily, Mum, Dad, Tick), plus Sam and John when a story needs them, drawn only from the reference sheets in characters/ (see CHARACTERS.md). Never invent a new face for a one-off.
+- Serious topics (safety word, living alone, far from family) can use the cast too, but calm and warm, never sad or frightening.
+- A comic never stands alone without the product: every strip shows a reminder, a Done tap or a missed alert.
+
 ## Cadence
 - One post every day. Weekdays 18:00 UK, weekends 10:00 UK.
 - Rotation when PLAN.md has no row: Mon Looking after family, Tue How it works, Wed Alarm chaos, Thu No more nagging, Fri Daily I'm OK or Safety word (alternate), Sat Useful list, Sun Looking after family or Seasonal.

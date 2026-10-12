@@ -80,3 +80,10 @@ Shared end: "no text, no letters, no logos, no watermark, no frame borders, no o
 - **Tick:** "small friendly mascot shaped like a rounded orange speech bubble (#FF8A3D to #FFB347 soft gradient) with a tail at the bottom left, a simple white tick shape forming its smile, two small dot eyes, tiny stubby arms, no legs, floating slightly above the ground with a soft shadow, about the size of a hand, upbeat and slightly smug,"
 
 Generate each sheet, check it against the table above, save the chosen one as `characters/<name>-sheet.png`, and use it as the reference image for every scene.
+
+## Approved reference sheets (12 Oct 2026)
+Previews are in `characters/` (emily-sheet.jpg, mum-sheet.jpg, dad-sheet.jpg, tick-sheet.jpg). Full-size originals are in Higgsfield; pass these job IDs as reference images (role image_references, model gpt_image_2_5) in every scene:
+- Emily: d060224e-5403-43d4-80a9-57685796433a
+- Mum: d21f2e51-46db-4e17-b25a-4922d04a35d0
+- Dad: a604a7be-b495-4d50-bd4f-37691cf57644
+- Tick: 72649bd3-df1c-4a72-b662-d26cf1bab67a
