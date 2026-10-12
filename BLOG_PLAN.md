@@ -70,6 +70,21 @@ Write or refresh these, dated a few days to two weeks before the moment:
 - Clocks go back (last Sunday of October), Halloween, Bonfire Night and fireworks (pets).
 - November and December: winter checklist, Christmas planning, older relatives over Christmas, new-year reminders.
 
+## Audience gaps to fill (from 18 Jan 2027, or swap in earlier)
+The first 14 weeks lean on parents, living alone and home. These guides cover the other audiences in the audience playbook (https://claude.ai/code/artifact/228a240e-1ba5-41d7-9338-a5a940b970e3):
+| Cluster | Audience | Title | Slug |
+|---|---|---|---|
+| parents | Far from home | Prendersi cura dei genitori anziani dall'estero (Italian, for getimok.app/it) | genitori-anziani-lontani |
+| parents | Far from home | Staying close to parents back home: a guide for people living in the UK | parents-back-home |
+| alone | Teens and students | Your child is off to uni: a check-in plan that isn't tracking | uni-check-in-plan |
+| alone | Teens and students | First gig or festival: a safety plan for parents and teens | first-gig-safety-plan |
+| alone | Personal safety | Nights out and Christmas parties: a calm safety plan | nights-out-safety |
+| home | Flatmates | Moving into your first shared house: the reminders to set on day one | first-shared-house-reminders |
+| reminders | Shared goals | How to keep a habit with a friend | habit-with-a-friend |
+| reminders | Shared goals | Learning a language together: a weekly plan that sticks | learn-language-together |
+| reminders | Shared goals | New year goals that survive February | goals-that-survive-february |
+Shared goals guides go out in the first two weeks of January; the uni guide in late August.
+
 ## Ideas for after week 14 (pick by cluster rotation)
 - parents: hospital discharge (helping a parent settle back home), repeat prescriptions and the NHS App, hearing aid and glasses check reminders, hydration for older people, helping a parent use WhatsApp.
 - reminders: why phone reminders fail, how to build a habit that sticks, reminders for people with ADHD (practical, no medical claims), "did you do it?" texts and why they backfire.
