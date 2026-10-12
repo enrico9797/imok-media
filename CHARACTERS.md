@@ -93,4 +93,4 @@ Previews are in `characters/` (emily-sheet.jpg, mum-sheet.jpg, dad-sheet.jpg, ti
 2. Generate each panel with gpt_image_2_5, aspect 4:5, quality medium, passing the reference sheet job IDs above, using the master prompt plus "Keep the top quarter of the image as plain empty cream space for a caption".
 3. Check every panel against the sheets; regenerate any that drifted.
 4. Add the text with HTML (Fraunces 700 headings, gradient italic phrase, Inter sub lines, white speech bubbles with a brown outline, house WhatsApp bubble), 1080x1350, slide counter top right, the last slide with the I'm OK logo and "Start free at getimok.app".
-5. Save as posts/<date>/comic-N-name.jpg, push, and schedule the carousel in Metricool (Instagram and Facebook) from the raw GitHub URLs. Mark Instagram isAiGenerated true.
+5. Save as posts/<date>/<story>-N-name.jpg (a new file name for any changed image, so the GitHub cache never serves an old one), push, and schedule the carousel in Metricool (Instagram and Facebook) from the raw GitHub URLs. Mark Instagram isAiGenerated true.
