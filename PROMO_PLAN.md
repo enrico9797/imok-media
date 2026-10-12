@@ -20,7 +20,7 @@ Read this before any promotion work. Update it when something changes.
 ## Free channels
 - SEO blog and audience pages.
 - Facebook groups: carers and ageing parents, Italians/Spanish in London, Chiswick and Hounslow community groups. Help first; ask admins before posting about the product.
-- Reddit (r/AgingParents, r/CaregiverSupport, r/LivingAlone, r/london): help first, link only when asked. Enrico has zero karma: build it slowly, Claude drafts answers.
+- Reddit (on hold: Enrico doesn't enjoy it; Quora instead) (r/AgingParents, r/CaregiverSupport, r/LivingAlone, r/london): help first, link only when asked. Enrico has zero karma: build it slowly, Claude drafts answers.
 - Mumsnet Elderly Parents and Gransnet: join as yourself, no links unless asked.
 - TikTok/Instagram photo slideshows (hook slide, then the chat, then the app), automated with the social posts.
 - WhatsApp Status, testers forwarding to one person each, Trustpilot reviews.
@@ -28,6 +28,7 @@ Read this before any promotion work. Update it when something changes.
 - Local press: ChiswickW4.com (weekly newsletter to about 19,500), The Chiswick Calendar, Italian community press.
 
 ## Local (Chiswick)
+- 12 Oct 2026: Enrico won't do in-person stunts for now (laptop time only). Free laptop channels, directories, cartoon characters and Real Barks are in the doc "I'm OK free growth plan": https://claude.ai/code/artifact/b205941c-2cdd-4c5c-9896-a7efd7b89038
 - Free "Bin night?" stickers for people's own wheelie bins (offered on Nextdoor and local groups).
 - Pub quiz "reminder round" (£10 bar tab prize per pub, poster on the board).
 - Posters on community noticeboards with permission (library, supermarkets, church halls, GP surgeries, pharmacies).
@@ -45,7 +46,8 @@ Read this before any promotion work. Update it when something changes.
 - Parents of first-year students: the home-safe angle.
 
 ## Paid
-- Meta click-to-WhatsApp ad for audience 1 from week 3: two images ("Mum's tablets at 9", "Far from Mum and Dad?"), £1 a day for 14 days, **lifetime cap £14**, UK 35 to 65, pre-filled message "Start parents".
+- LIVE since 12 Oct 2026 (brought forward from week 3): campaign "Parents test 1", ad set "Parents UK 35-65" (saved audience "Adult sons/daughters": UK, min age 25, suggestion 35-65, WhatsApp only, goal link clicks because Meta blocks conversation optimisation for WhatsApp in Europe), **lifetime cap £14**, 12 to 26 Oct. Ad "Tablets", pre-filled message "Start tablets". The far-from-home image joins the same ad set (same cap) with "Start abroad" if the 15 Oct check shows chats.
+- Next tests, in order: second audience (living alone, own £14 cap), then plain vs cartoon style. Budget can stretch to about £45 a month.
 - Click-to-WhatsApp opens the chat directly (the Instagram profile doesn't matter); conversations from the ad get 72 hours of free messages.
 - Not yet: Google Ads, TikTok ads.
 
