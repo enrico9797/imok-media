@@ -2,7 +2,7 @@
 
 The grid was emptied on 11 Oct. Monday 12 Oct posts the three launch posts together so Enrico can pin them; from Tuesday it's one post a day.
 
-Halloween week (27 to 31 Oct) is the exception: a daily "what's really scary" comic for each audience, ending with a Halloween carousel. Spooky-cosy, never frightening, and the safety word post stays calm and practical.
+Halloween: one big "What's really scary" carousel on the day (31 Oct), a slide per audience, in a spooky-cosy style. The days before carry a funny lead-up and a calm safety word post. Never frightening.
 
 From 19 Oct, the Wednesday and Thursday posts are comics with the cast (Emily, Mum, Dad, Tick). Make them only from the reference sheets in characters/ and follow CHARACTERS.md. If the sheets don't exist yet, post the slot as a normal chat-screenshot post on the same idea instead.
 
@@ -27,11 +27,11 @@ Launch order matters: the newest post shows first, so post "Who it's for" first,
 | Sat 24 Oct | 10:00 | Seasonal (clocks go back Sun 25 Oct) | Extra hour in bed; reminders still arrive at 9am, local time | Image |
 | Sun 25 Oct | 10:00 | Useful list | Reminders couples actually need: bins, bills, the dog's flea treatment, date night | Carousel |
 | Mon 26 Oct | 18:00 | Looking after family | Living far from Mum: you see "✅ Took her tablet at 9:05am" from 1,000 miles away | Chat screenshot |
-| Tue 27 Oct | 18:00 | Halloween week: what's really scary (comic) | For parents: 11:40pm, Sam's out, no text, Emily staring at the door. One reminder "Text me when you're home", Sam taps Done, "✅ Sam's home, 11:52pm". Spooky-cosy lighting, never frightening | Comic, 4 panels, Emily + Sam |
-| Wed 28 Oct | 18:00 | Halloween week: what's really scary (comic) | For grown-up kids: 9pm, did Dad take his pills? Emily imagines the worst (cartoon thunder cloud); Dad, in the garden, taps Done; "✅ Dad: Take your tablets, done at 9:02pm" | Comic, 4 panels, Emily + Dad |
-| Thu 29 Oct | 18:00 | Halloween week: what's really scary (comic) | For flatmates: rent day, nobody knows who's paid; the bin lorry rumbles at dawn. Tick in a ghost sheet: "Pay the rent 🏠" Done ✅, "Bins out" Done ✅ | Comic, 4 panels, John + a flatmate + Tick |
-| Fri 30 Oct | 18:00 | Halloween week: safety word (serious, calm) | Walking home after a Halloween party: one secret word sent to I'm OK alerts your people at once, with your number and, if you like, where you are. Calm, practical, never frightening; not an emergency service | Comic, 4 panels, Emily + Tick (calm, warm) |
-| Sat 31 Oct | 10:00 | Seasonal (day): Happy Halloween | "What's really scary" carousel: one slide each for parents, grown-up kids, flatmates and walking home (reusing this week's best panels), plus a festive cover with Tick in a pumpkin costume and a last slide "Start free at getimok.app" | Carousel, 6 slides |
+| Tue 27 Oct | 18:00 | How it works | Plus, plainly: a message every time it's done, and a gentle nudge if they forget (no prices) | Image |
+| Wed 28 Oct | 18:00 | How it works (comic) | Dad and the Done button: the reminder arrives, Dad taps Done before it's even finished, punches the air; Emily sees it from London | Comic, 4 panels, cast |
+| Thu 29 Oct | 18:00 | Seasonal lead-up (funny) | Halloween is coming: the scariest sound of the week is the bin lorry you forgot about. Two panels: 6am rumble, Emily bolting upright; then "🗑️ Bins out" Done ✅ the night before | Meme, two panels, Emily + Tick |
+| Fri 30 Oct | 18:00 | Safety word (serious, calm) | Off to a Halloween party this weekend? Your secret word sent to I'm OK alerts your people at once, with your number and, if you like, where you are. Calm, practical; never an emergency service | Chat screenshot (John's phone and Emily's phone) |
+| Sat 31 Oct | 10:00 | Seasonal (day): Happy Halloween | Spooky-season carousel "What's really scary": cover (Tick as a pumpkin, "Forget ghosts. This is what's really scary."), then one slide per audience, each a spooky-cosy scene plus the relief: parents (11:40pm, no text from Sam; "✅ Sam's home"), grown-up kids (did Dad take his pills?; "✅ done at 9:02pm"), flatmates (rent day, nobody's sure who paid; "✅ Rent paid"), walking home from a party (your secret word alerts your people; calm), last slide "Start free at getimok.app" | Carousel, 6 slides, the cast |
 | Sun 1 Nov | 10:00 | Seasonal (month) | Hello November: set the reminders that matter this month (flu jab, boiler service, a call to Gran) | Image |
 | Mon 2 Nov | 18:00 | Looking after family | Kids away at uni: "Text me when you're home" becomes one Done tap | Chat screenshot |
 | Tue 3 Nov | 18:00 | How it works | They don't need an app. Just WhatsApp, one tap to say yes, one tap for Done | Image |
@@ -39,6 +39,4 @@ Launch order matters: the newest post shows first, so post "Who it's for" first,
 | Thu 5 Nov | 18:00 | Seasonal: Bonfire Night (comic) | Dad at the fireworks with a sparkler; Emily's phone: Dad tapped I'm OK, home safe; Tick with tiny ear defenders | Comic, 4 panels, cast |
 | Fri 6 Nov | 18:00 | No more nagging | Couples: "One Done tap stands between us and a mini-me" (the daily pill reminder, sent by I'm OK). Keep it light and tasteful; organic only, never boosted | Meme |
 | Sat 7 Nov | 10:00 | Real people | Why I built I'm OK, told without Enrico's face (messages and text on screen) | Carousel |
-| Tue 10 Nov | 18:00 | How it works | Plus, plainly: a message every time it's done, and a gentle nudge if they forget (no prices). Moved from 27 Oct for Halloween week | Image |
-| Wed 11 Nov | 18:00 | How it works (comic) | Dad and the Done button: the reminder arrives, Dad taps Done before it's even finished, punches the air; Emily sees it from London. Moved from 28 Oct | Comic, 4 panels, cast |
 | Sun 8 Nov | 10:00 | Useful list | Reminders for your dog: flea treatment, worming, the walk when you're late home | Carousel |
