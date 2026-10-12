@@ -60,3 +60,14 @@ Avoid: 3D, photorealism, anime, big-limbed corporate flat style, text or letters
 ## Cadence
 - From Monday 19 October: two comics a week (Wednesday and Thursday slots) in place of regular posts. See PLAN.md.
 - Video once the first comics exist; then one video a week, made from that week's best comic.
+
+## Reference sheet prompts (run once per character, 16:9)
+Shared start: "Character turnaround and expression sheet, 2D flat illustration with soft paper grain, rounded medium-weight warm dark brown (#3A2A1E) outlines, natural adult proportions, flat brand colours (cream #FFF7EE background, sand #F3E6D6, orange #FF8A3D), left: four consistent full-body views in a row (front, three-quarter, side, back), right: three head-and-shoulders expressions (happy, unimpressed, surprised), identical original character in every view, plain cream seamless background, professional model sheet presentation,"
+Shared end: "no text, no letters, no logos, no watermark, no frame borders, no other characters, no props, not 3D, not photorealistic, not anime, no big-limbed corporate flat style, original character not resembling any real person or existing character."
+
+- **Emily:** "woman in her late thirties, warm light-olive skin, oval face, shoulder-length dark brown hair in a loose messy bun with a few strands loose, small gold hoop earrings, mustard-orange chunky knit jumper, mid-blue straight jeans, white trainers, slim build, kind tired eyes with a hint of humour,"
+- **Mum:** "woman in her early seventies, fair skin with soft smile lines, short neat silver bob, red-framed glasses on a beaded chain, small pearl earrings, teal cardigan over a cream blouse, navy trousers, comfortable brown loafers, upright confident posture, sharp amused expression,"
+- **Dad:** "man in his mid seventies, ruddy fair skin, bald on top with short white hair at the sides, full white moustache, green knitted sleeveless vest over a blue-and-white checked shirt, brown corduroy trousers, sturdy brown shoes, flat tweed cap held in one hand, stocky build, cheerful competitive grin,"
+- **Tick:** "small friendly mascot shaped like a rounded orange speech bubble (#FF8A3D to #FFB347 soft gradient) with a tail at the bottom left, a simple white tick shape forming its smile, two small dot eyes, tiny stubby arms, no legs, floating slightly above the ground with a soft shadow, about the size of a hand, upbeat and slightly smug,"
+
+Generate each sheet, check it against the table above, save the chosen one as `characters/<name>-sheet.png`, and use it as the reference image for every scene.
