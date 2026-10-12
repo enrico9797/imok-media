@@ -22,7 +22,7 @@ Read this before making any comic, illustrated post or video with the I'm OK cas
 
 | Character | Look (keep identical every time) | Personality | Running joke | Never |
 |---|---|---|---|---|
-| **Emily** | Late 30s, shoulder-length dark brown hair, usually in a loose bun, mustard-orange jumper (brand orange), jeans, small gold hoops | Kind, busy, slightly late, worries about her parents | Has 47 phone alarms, all called IMPORTANT | Shown as a nag or a bad daughter |
+| **Emily** | Late 30s, short copper-ginger hair in a choppy chin-length bob with a side parting, freckles, mustard-orange jumper (brand orange), jeans, white trainers, small gold hoops | Kind, busy, slightly late, worries about her parents | Has 47 phone alarms, all called IMPORTANT | Shown as a nag or a bad daughter |
 | **Mum** | Early 70s, short silver bob, red-framed glasses on a beaded chain, teal cardigan, pearl earrings | Sharp, independent, funny, proud | "I know, I know" to every reminder, then taps Done with a flourish | Confused, frail, or the butt of the joke |
 | **Dad** | Mid 70s, bald on top with white sides, white moustache, flat cap outdoors, green knitted vest over a checked shirt | Cheerful, competitive, happiest in the garden | Treats the Done button as a game he intends to win | Forgetful as the punchline, or helpless with technology |
 | **Tick** | The I'm OK app icon come to life: a small rounded orange speech bubble with a white tick for a mouth-and-eyes face, tiny arms, no legs (floats) | Helpful, upbeat, a bit smug | Pops out of phones; does the nagging so Emily doesn't have to | Talks in long sentences (one short line at most) |
@@ -74,7 +74,7 @@ Avoid: 3D, photorealism, anime, big-limbed corporate flat style, text or letters
 Shared start: "Character turnaround and expression sheet, 2D flat illustration with soft paper grain, rounded medium-weight warm dark brown (#3A2A1E) outlines, natural adult proportions, flat brand colours (cream #FFF7EE background, sand #F3E6D6, orange #FF8A3D), left: four consistent full-body views in a row (front, three-quarter, side, back), right: three head-and-shoulders expressions (happy, unimpressed, surprised), identical original character in every view, plain cream seamless background, professional model sheet presentation,"
 Shared end: "no text, no letters, no logos, no watermark, no frame borders, no other characters, no props, not 3D, not photorealistic, not anime, no big-limbed corporate flat style, original character not resembling any real person or existing character."
 
-- **Emily:** "woman in her late thirties, warm light-olive skin, oval face, shoulder-length dark brown hair in a loose messy bun with a few strands loose, small gold hoop earrings, mustard-orange chunky knit jumper, mid-blue straight jeans, white trainers, slim build, kind tired eyes with a hint of humour,"
+- **Emily:** "woman in her late thirties, fair skin with a light dusting of freckles, short copper-ginger hair in a choppy chin-length bob with a side parting and a few messy strands, no bun, small gold hoop earrings, mustard-orange chunky knit jumper, mid-blue straight jeans, white trainers, slim build, kind tired eyes with a hint of humour,"
 - **Mum:** "woman in her early seventies, fair skin with soft smile lines, short neat silver bob, red-framed glasses on a beaded chain, small pearl earrings, teal cardigan over a cream blouse, navy trousers, comfortable brown loafers, upright confident posture, sharp amused expression,"
 - **Dad:** "man in his mid seventies, ruddy fair skin, bald on top with short white hair at the sides, full white moustache, green knitted sleeveless vest over a blue-and-white checked shirt, brown corduroy trousers, sturdy brown shoes, flat tweed cap held in one hand, stocky build, cheerful competitive grin,"
 - **Tick:** "small friendly mascot shaped like a rounded orange speech bubble (#FF8A3D to #FFB347 soft gradient) with a tail at the bottom left, a simple white tick shape forming its smile, two small dot eyes, tiny stubby arms, no legs, floating slightly above the ground with a soft shadow, about the size of a hand, upbeat and slightly smug,"
@@ -83,7 +83,14 @@ Generate each sheet, check it against the table above, save the chosen one as `c
 
 ## Approved reference sheets (12 Oct 2026)
 Previews are in `characters/` (emily-sheet.jpg, mum-sheet.jpg, dad-sheet.jpg, tick-sheet.jpg). Full-size originals are in Higgsfield; pass these job IDs as reference images (role image_references, model gpt_image_2_5) in every scene:
-- Emily: d060224e-5403-43d4-80a9-57685796433a
+- Emily: 4df0202f-42b7-4cac-8c10-5e5685980d6c (ginger bob, approved 12 Oct; the earlier dark-haired version is retired)
 - Mum: d21f2e51-46db-4e17-b25a-4922d04a35d0
 - Dad: a604a7be-b495-4d50-bd4f-37691cf57644
 - Tick: 72649bd3-df1c-4a72-b662-d26cf1bab67a
+
+## How to make a comic (the process used for the first one)
+1. Write the 4 slides: a caption per slide (heading with one gradient phrase, optional sub line), any speech bubble, and the WhatsApp bubble for the payoff.
+2. Generate each panel with gpt_image_2_5, aspect 4:5, quality medium, passing the reference sheet job IDs above, using the master prompt plus "Keep the top quarter of the image as plain empty cream space for a caption".
+3. Check every panel against the sheets; regenerate any that drifted.
+4. Add the text with HTML (Fraunces 700 headings, gradient italic phrase, Inter sub lines, white speech bubbles with a brown outline, house WhatsApp bubble), 1080x1350, slide counter top right, the last slide with the I'm OK logo and "Start free at getimok.app".
+5. Save as posts/<date>/comic-N-name.jpg, push, and schedule the carousel in Metricool (Instagram and Facebook) from the raw GitHub URLs. Mark Instagram isAiGenerated true.
