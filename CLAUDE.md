@@ -9,3 +9,5 @@ Before any marketing, social, blog or promotion work for I'm OK, read:
 - BLOG.md and BLOG_PLAN.md: how the blog is written and what comes next.
 
 Ad creatives and print pieces are in `ads/` (rendered by `tools/render-ads.js`).
+
+Bot source code (private backup): https://github.com/enrico9797/imok-bot (src/index.js is the deployed Worker; build/p1..p19.js are the parts).
