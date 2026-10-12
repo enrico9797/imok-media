@@ -2,6 +2,7 @@
 
 | Date | Theme | Files | Caption first line |
 |---|---|---|---|
+| 2026-10-21 18:00 | Comic (alarm chaos): 47 alarms, 4-slide carousel with Emily and Tick (scheduled in Metricool) | 2026-10-21/alarms-1-alarms, alarms-2-snooze, alarms-3-tick, alarms-4-done | Meet Emily. 47 alarms, all called IMPORTANT. 😅 |
 | 2026-10-18 10:00 | Safety word explainer (scheduled in Metricool) | 2026-10-12/09-safety-word.png | What's a safety word? 💛 |
 | 2026-10-17 10:00 | Useful list: 5 reminders for your parents (carousel) (scheduled in Metricool) | 2026-10-12/08a-parents-cover, 08b-parents-1, 08c-parents-2, 08d-parents-3, 08e-parents-4, 08f-parents-5 | 5 reminders worth setting for your parents 📌 Save this for later. |
 | 2026-10-16 18:00 | Daily I'm OK: living alone (scheduled in Metricool) | 2026-10-12/07-daily.png | Living alone? One tap a day. 🌙 |
