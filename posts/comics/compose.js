@@ -38,7 +38,7 @@ const getimok = `<div class="pill" style="right:60px;bottom:56px">Start free at 
 
 const slides = {
   // Thu 22 Oct: Mum vs the 9am tablet
-  'mum-1': S('p1.png', '1/4', 'Did Mum take her <em>tablets?</em>', `${sp(596, 392, 450, 'Should I call again? That\'s the third time today…', 'th')}${me(86, 1110, 'remind Mum every day at 9 to take her tablets', 'So Emily asked I\'m OK:')}`),
+  'mum-1': S('p1.png', '1/4', 'Did Mum take her <em>tablets?</em>', `${`<div style="position:absolute;left:585px;top:370px;width:470px;height:300px;border-radius:60px;background:#F8EFE2;filter:blur(6px)"></div>` + sp(596, 400, 450, 'Should I call again? That\'s the third time today…', 'th')}${me(86, 1110, 'remind Mum every day at 9 to take her tablets', 'So Emily asked I\'m OK:')}`),
   'mum-2': S('p2.png', '2/4', '9:00am. <em>Mum\'s phone.</em>', `${card(600, 330, 420, rem('Take your tablets 💊'))}${sp(70, 360, 0, 'I know, I know.', 'dr')}`),
   'mum-3': S('p3.png', '3/4', 'Done. <em>With a flourish.</em>', `${me(640, 330, 'Done ✅')}`),
   'mum-4': S('p4.png', '4/4', 'Emily, <em>finally relaxed.</em>', `${pagec(86, 300, 700, "Emily's page · Today", 'Mum took her tablets', 'Done at 9:04am')}<div class="me" style="left:86px;top:1120px;background:#fff"><div class="lab">Mum</div>Satisfied? 😏</div>${getimok}`),
@@ -52,9 +52,9 @@ const slides = {
   'bins-2': SB('p10.png', '2/2', 'Unless you set <em>one reminder.</em>', `${card(560, 990, 460, rem('Bins out tonight 🗑️', ''))}`),
   // Sat 31 Oct: What's really scary (6 slides)
   'hw-1': S('p11.png', '1/6', 'Forget ghosts. <em>This</em> is what\'s really scary.', `<div class="sub" style="top:1180px;color:#2B1D14">Swipe 👉</div>`),
-  'hw-2': SB('p12.png', '2/6', '11:40pm. <em>No text from Sam.</em>', `${pagec(86, 1100, 860, 'Then: ', 'Sam: Text me when you\'re home', 'Done at 11:52pm ✅ Home safe')}`),
-  'hw-3': SB('p13.png', '3/6', 'Did Dad take <em>his pills?</em>', `${pagec(86, 1100, 860, 'Then:', 'Dad: Take your evening pills', 'Done at 9:02pm')}`),
-  'hw-4': SB('p14.png', '4/6', 'Rent day. <em>Who paid?</em>', `${pagec(86, 1100, 860, 'Then:', 'John: Pay your half of the rent', 'Done at 9:14am')}`),
+  'hw-2': SB('p12.png', '2/6', '11:40pm. <em>No text from Sam.</em>', `${pagec(86, 1100, 860, 'Then, on Emily\'s page', 'Sam: Text me when you\'re home', 'Done at 11:52pm ✅ Home safe')}`),
+  'hw-3': SB('p13.png', '3/6', 'Did Dad take <em>his pills?</em>', `${pagec(86, 1100, 860, 'Then, on Emily\'s page', 'Dad: Take your evening pills', 'Done at 9:02pm')}`),
+  'hw-4': SB('p14.png', '4/6', 'Rent day. <em>Who paid?</em>', `${pagec(86, 1100, 860, 'Then, on Emily\'s page', 'John: Pay your half of the rent', 'Done at 9:14am')}`),
   'hw-5': SB('p15.png', '5/6', 'Walking home <em>from a party.</em>', `${pagec(86, 1060, 900, 'Your safety word', 'One secret word to I\'m OK', 'alerts your people at once, with where you are')}`),
   'hw-6': `<div style="position:absolute;inset:0;background:radial-gradient(circle at 80% 10%,#FFD9A8,transparent 55%),radial-gradient(circle at 10% 95%,#FFE7D2,transparent 55%)"></div><div class="pg">6/6</div>
     <div style="position:absolute;left:86px;top:84px;display:flex;align-items:center;gap:16px;font:700 44px Fraunces,serif"><span style="width:70px;height:70px;display:block">${LOGO.replace('<svg', '<svg width="70" height="70"')}</span>I'm OK</div>
