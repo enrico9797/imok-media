@@ -38,7 +38,7 @@ const getimok = `<div class="pill" style="right:60px;bottom:56px">Start free at 
 
 const slides = {
   // Thu 22 Oct: Mum vs the 9am tablet
-  'mum-1': S('p1.png', '1/4', 'Did Mum take her <em>tablets?</em>', `${`<div style="position:absolute;left:585px;top:370px;width:470px;height:300px;border-radius:60px;background:#F8EFE2;filter:blur(6px)"></div>` + sp(596, 400, 450, 'Should I call again? That\'s the third time today…', 'th')}${me(86, 1110, 'remind Mum every day at 9 to take her tablets', 'So Emily asked I\'m OK:')}`),
+  'mum-1': S('p1.png', '1/4', 'Did Mum take her <em>tablets?</em>', `${`<div style="position:absolute;left:668px;top:380px;width:380px;height:290px;border-radius:60px;background:#F8EFE2;filter:blur(6px)"></div>` + sp(662, 400, 390, 'Should I call again? That\'s the third time today…', 'th')}${me(86, 1110, 'remind Mum every day at 9 to take her tablets', 'So Emily asked I\'m OK:')}`),
   'mum-2': S('p2.png', '2/4', '9:00am. <em>Mum\'s phone.</em>', `${card(600, 330, 420, rem('Take your tablets 💊'))}${sp(70, 360, 0, 'I know, I know.', 'dr')}`),
   'mum-3': S('p3.png', '3/4', 'Done. <em>With a flourish.</em>', `${me(640, 330, 'Done ✅')}`),
   'mum-4': S('p4.png', '4/4', 'Emily, <em>finally relaxed.</em>', `${pagec(86, 300, 700, "Emily's page · Today", 'Mum took her tablets', 'Done at 9:04am')}<div class="me" style="left:86px;top:1120px;background:#fff"><div class="lab">Mum</div>Satisfied? 😏</div>${getimok}`),
