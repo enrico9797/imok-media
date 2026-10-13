@@ -55,7 +55,7 @@ const slides = {
   'hw-2': SB('p12.png', '2/6', '11:40pm. <em>No text from Sam.</em>', `${pagec(86, 1100, 860, 'Then, on Emily\'s page', 'Sam: Text me when you\'re home', 'Done at 11:52pm ✅ Home safe')}`),
   'hw-3': SB('p13.png', '3/6', 'Did Dad take <em>his pills?</em>', `${pagec(86, 1100, 860, 'Then, on Emily\'s page', 'Dad: Take your evening pills', 'Done at 9:02pm')}`),
   'hw-4': SB('p14.png', '4/6', 'Rent day. <em>Who paid?</em>', `${pagec(86, 1100, 860, 'Then, on Emily\'s page', 'John: Pay your half of the rent', 'Done at 9:14am')}`),
-  'hw-5': SB('p15.png', '5/6', 'Walking home <em>from a party.</em>', `${pagec(86, 1060, 900, 'Your safety word', 'One secret word to I\'m OK', 'alerts your people at once, with where you are')}`),
+  'hw-5': SB('p15.png', '5/6', 'Walking home <em>from a party.</em>', `${pagec(86, 1060, 900, 'Your safety word', 'One secret word to I\'m OK', 'alerts your people at once, with your number')}`),
   'hw-6': `<div style="position:absolute;inset:0;background:radial-gradient(circle at 80% 10%,#FFD9A8,transparent 55%),radial-gradient(circle at 10% 95%,#FFE7D2,transparent 55%)"></div><div class="pg">6/6</div>
     <div style="position:absolute;left:86px;top:84px;display:flex;align-items:center;gap:16px;font:700 44px Fraunces,serif"><span style="width:70px;height:70px;display:block">${LOGO.replace('<svg', '<svg width="70" height="70"')}</span>I'm OK</div>
     <div class="t" style="top:360px;font-size:96px">Happy <em>Halloween</em> 🎃</div>
