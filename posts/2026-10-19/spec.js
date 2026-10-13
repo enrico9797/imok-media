@@ -25,8 +25,8 @@ module.exports = ({ LOGO, foot }) => {
   const couples = [
     ['🗑️', 'Bin night', 'Bins out tonight 🗑️', 'Every Tuesday, 7pm'],
     ['💷', 'Bills and rent', 'Rent day: pay your half 💷', 'The 1st of every month, 9am'],
-    ['🐶', "The dog's flea treatment", "Biscuit's flea treatment 🐶", 'Once a month, Sunday 10am'],
-    ['🍝', 'Date night', 'Date night: you\'re booking 🍝', 'Every other Friday, 6pm'],
+    ['🐶', "The dog's flea treatment", "Biscuit's flea treatment 🐶", 'The 15th of every month, 10am'],
+    ['🍝', 'Date night', 'Date night: you\'re booking 🍝', 'Every Friday, 6pm'],
   ];
   const coupleSlides = Object.fromEntries(couples.map(([e, t, msg, when], i) => [`06${'bcde'[i]}-couples-${i + 1}`, page(`<div class="pg">${i + 2} / 5</div>
     <div style="position:absolute;left:90px;right:90px;top:260px"><div class="lbl">Reminder ${i + 1} of 4</div><h1>${e} ${t}</h1></div>
@@ -87,7 +87,7 @@ module.exports = ({ LOGO, foot }) => {
     // Fri 30 Oct 18:00 · Safety word: Halloween party, calm
     '09-party': page(`${heading(190, `Off to a Halloween <span class="grad">party?</span>`, 'Set a safety word before you go.')}
     <div style="position:absolute;left:90px;right:90px;top:500px;display:grid;grid-template-columns:1fr 1fr;gap:26px">
-      <div><div class="cap">John's phone</div><div class="chat" style="padding:24px"><div class="b me" style="margin:0 0 0 60px">pumpkin</div><div class="b" style="margin-top:14px;font-size:27px">👍 I've alerted Emily. Want to send where you are?<div class="acts" style="margin:16px -28px -24px"><div style="padding:12px 0">📍 Send location</div></div></div></div></div>
+      <div><div class="cap">John's phone</div><div class="chat" style="padding:24px"><div class="b me" style="margin:0 0 0 60px">pumpkin</div><div class="b" style="margin-top:14px;font-size:27px">👍<div class="acts" style="margin:16px -28px -24px"><div style="padding:12px 0">📍 Send location</div></div></div></div></div>
       <div><div class="cap">Emily's phone</div><div class="chat" style="padding:24px"><div class="b" style="font-size:27px">🆘 John sent his safety word and may need help.<br><br>📞 +44 7700 900123<div class="acts" style="margin:16px -28px -24px"><div style="padding:12px 0">I'm on it</div></div></div></div></div>
     </div>
     <p class="sub" style="position:absolute;left:90px;right:90px;top:1060px;font-size:32px">One secret word only you know. Free for everyone. Not an emergency service: for emergencies, call 999.</p>`),
